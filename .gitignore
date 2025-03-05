@@ -1,0 +1,14 @@
+# --- VS Code stuff ------------------------------------------------------------
+.vscode/**/*
+
+!.vscode/.gitkeep
+!.vscode/c_cpp_properties.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+
+# --- Project stuff ------------------------------------------------------------
+out/**/*
+
+!out/.gitkeep
