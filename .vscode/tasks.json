@@ -9,7 +9,10 @@
             "windows":
             {
                 "command": "cook",
-                "args":    "${command:cpptools.activeConfigName}"
+                "args":
+                [
+                    "${command:cpptools.activeConfigName}"
+                ]
             },
             "presentation":
             {
